@@ -1,5 +1,9 @@
 {
   "item.examplemod.sapphire": "Sapphire",
   "item.examplemod.raw_sapphire": "Raw Sapphire",
+
+  "block.examplemod.sapphire_block": "Block of Sapphire",
+  "block.examplemod.raw_sapphire_block": "Block of Raw Sapphire",
+
   "creativetab.tutorial_tab": "Sapphire Tutorial"
 }
