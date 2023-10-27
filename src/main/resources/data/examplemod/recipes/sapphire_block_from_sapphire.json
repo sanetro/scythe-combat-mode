@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
     "###",
@@ -12,6 +12,6 @@
     }
   },
   "result": {
-    "item": "examplemod:sapphire"
+    "item": "examplemod:sapphire_block"
   }
 }
